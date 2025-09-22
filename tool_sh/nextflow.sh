@@ -1,0 +1,29 @@
+
+
+
+wget -qO- https://get.nextflow.io | bash
+
+export PATH="$PATH:/data/softs/nextflow"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
